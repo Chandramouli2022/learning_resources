@@ -1,4 +1,6 @@
-For a better and more comprehensive experience, checkout the [LLD page at AlgoMaster.io](https://algomaster.io/learn/lld)
+This file contains resources to learn Low Level Design (LLD) / Object Oriented Design (OOD) and prepare for interviews.
+
+ For a better and more comprehensive experience, checkout the [LLD page at AlgoMaster.io](https://algomaster.io/learn/lld)
 
 ## 📌 Fundamental Concepts
 
@@ -32,8 +34,6 @@ For a better and more comprehensive experience, checkout the [LLD page at AlgoMa
 - [Activity Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/)
 - [State Machine Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-state-machine-diagram/)
 
-## ✅ [How to Answer a LLD Interview Problem](https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem)
-<img src="images/interview-template.png" width="350" height="250">
 
 ## 💻 Low Level Design Interview Problems
 ### Easy Problems
@@ -92,20 +92,3 @@ For a better and more comprehensive experience, checkout the [LLD page at AlgoMa
 
 - [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
 - [Github - Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to add a new problem, improve existing content, or fix errors:
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
-
-Please make sure to update Readme files and documentation as appropriate.
-
----
-
-<p align="center">
-  <i>If you find this resource helpful, please give it a star and share it with others!</i>
-</p>
