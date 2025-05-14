@@ -115,6 +115,7 @@ def shell_sort(arr):
 
 ### **2. Non-comparison-based Sorting Algorithms**
 
+![sorting-visuals](./images/sorting-visuals-1.png)
 #### a. **Counting Sort** (only for non-negative integers)
 
 ```python
@@ -161,4 +162,7 @@ def bucket_sort(arr):
     return sorted_arr
 ```
 
+#### **Time Complexity**
+
+![sorting-visuals](./images/time-complexity.png)
 ---
