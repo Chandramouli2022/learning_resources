@@ -5,7 +5,7 @@ Here are the job search platforms you mentioned, sorted by general popularity an
 1. **[LinkedIn](https://www.linkedin.com/)**
 
    * Global professional networking and job search platform.
-   * filter 1 - [Link](https://www.linkedin.com/jobs/search/?currentJobId=4201916948&distance=25&f_E=1%2C2%2C3&f_PP=105556991&f_TPR=r604800&geoId=102713980&keywords=nodejs&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true)
+   * nodejs, hyd, past week - [Link](https://www.linkedin.com/jobs/search/?currentJobId=4201916948&distance=25&f_E=1%2C2%2C3&f_PP=105556991&f_TPR=r604800&geoId=102713980&keywords=nodejs&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true)
 
 2. **[Naukri.com](https://www.naukri.com/)**
 
