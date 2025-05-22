@@ -5,3 +5,11 @@
     Skills: Nodejs, ReactJs(proficient), jQuery, Express, Postgresql, Mongodb, Docker, Kubernetes, AWS
 
     I am very much interested in joining company Team
+
+### Follow up messages
+
+    I applied to the position_name position a few weeks ago and want to update you. I am still very interested in working at company_name. Do let me know if you have any questions or if I can provide additional materials to assist in making your decision.
+
+### Follow up messages remainder
+
+    Hi, just following up on my previous message. I understand things get busy, please let me know any update is there.

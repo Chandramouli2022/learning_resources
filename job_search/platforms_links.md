@@ -1,6 +1,6 @@
 Here are the job search platforms you mentioned, sorted by general popularity and linked to their official websites:
 
-### 🔝 Most Popular Platforms
+### Most Popular Platforms
 
 1. **[LinkedIn](https://www.linkedin.com/)**
 
@@ -17,7 +17,7 @@ Here are the job search platforms you mentioned, sorted by general popularity an
 
 ---
 
-### 🔹 Mid-tier Platforms
+### Mid-tier Platforms
 
 4. **[Foundit](https://www.foundit.in/)** (formerly Monster India)
 
@@ -33,7 +33,7 @@ Here are the job search platforms you mentioned, sorted by general popularity an
 
 ---
 
-### 🎯 Niche and Startup-Focused Platforms
+### Niche and Startup-Focused Platforms
 
 7. **[Wellfound](https://wellfound.com/)** (formerly AngelList Talent)
 
@@ -48,3 +48,11 @@ Here are the job search platforms you mentioned, sorted by general popularity an
    * Platform for student internships and entry-level tech jobs.
 
 Let me know if you want to compare them by features like remote jobs, startup focus, or tech industry support.
+
+### Refferal companies 
+
+    site:linkedin.com/in/ AND "Sprinklr" AND "India" AND "Current"
+
+For connecting people 
+
+    site:linkedin.com/in/ ("web developer" OR "frontend developer" OR "javascript developer" OR "UI developer" OR "React" OR "Angular" OR "Node") AND "Sprinklr" AND "Current"
